@@ -1,0 +1,20 @@
+.texto {
+    margin-top: 1px;
+    margin-bottom: 5px;
+}
+
+#reg {
+    width: 20vh;
+}
+
+#opc {
+    width: 30vh;
+}
+
+#opcFil {
+    padding: 15px;
+}
+
+#FormFil {
+    padding: 100px;
+}
