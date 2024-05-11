@@ -1,0 +1,46 @@
+body {
+    font-family: Kanit;
+    text-align: center;
+    background-color: #feffbd;
+}
+
+header {
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+h1{
+    margin: 10px;
+}
+#cidade {
+    width: 40%;
+}
+
+#container {
+    align-items: center;
+    justify-content: center;
+    max-width: 35vh;
+    width: 100vh;
+}
+
+.redonda {
+    width: 150px;
+}
+
+.loja {
+    margin-bottom: 15px;
+    min-width: 35vh;
+    display: flex;
+    border: 3px solid orangered;
+}
+
+.texto {
+    min-height: 100%;
+}
+
+footer {
+    background-color: orangered;
+    padding: 20px;
+    margin-top: 10px;
+    
+}
